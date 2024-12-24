@@ -8,5 +8,5 @@ import { RouterOutlet } from '@angular/router';
   styleUrl: './app.component.css'
 })
 export class AppComponent {
-  title = 'Ang_04_Tour_of_Heores';
+  title = 'Tour_of_Heores';
 }
